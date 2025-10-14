@@ -37,4 +37,4 @@
 
 ### 📫 Contato
 
-[LinkedIn](https://www.linkedin.com/in/edyane-araujo-166850236/) | [Portfolio](https://anne034.github.io) | [Email](mailto:anne034@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/edyane-araujo-166850236/) | [Portfolio](https://github.com/Anne034) | [Email](mailto:annearaujo034@gmail.com)
