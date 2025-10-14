@@ -1,11 +1,12 @@
-## 👋 Oi, eu sou Edyane Araujo, futura cientista de dados.
+## Olá, sou Edyane Araujo, futura cientista de dados.
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas.  
-💻 Explorando Data Science, Machine Learning e BI  
-🐍 Apaixonada por Python
+
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas.  
+- 💻 Explorando Data Science, Machine Learning e BI  
+- 🐍 Apaixonada por Python
 ---
 
-### 🧠 Tecnologias e Ferramentas
+## 🧠 Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql)
@@ -15,7 +16,6 @@
 ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
 ![ScikitLearn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit)
 
 ---
 
