@@ -23,9 +23,9 @@
 
 | Projeto | Descrição | Tecnologias |
 |----------|------------|-------------|
-| [🏡 Previsão de Preços de Casas](https://github.com/Anne034/kc_house_data) | Modelo de regressão com XGBoost, SHAP e LIME | Python, Scikit-learn |
-| [📊 Dashboard de Vendas](https://github.com/Anne034/sales-dashboard) | KPIs e relatórios em Power BI | Power BI, SQL |
-| [🤖 API de Churn](https://github.com/Anne034/churn-api) | Predição de cancelamento de clientes com FastAPI | FastAPI, Docker |
+| [🏡 Previsão de Preços de Casas](https://github.com/Anne034/House_data) | Modelo de regressão com XGBoost, SHAP e LIME | Python, Scikit-learn |
+| [📊 Dashboard de Vendas](https://github.com/Anne034/DADOS_FINANCEIROS) | KPIs e relatórios em Power BI | Power BI, SQL |
+| [🤖 API de Churn]((https://github.com/Anne034/Churn-Prediction-API)) | Predição de cancelamento de clientes com FastAPI | FastAPI, Docker |
 
 ---
 
